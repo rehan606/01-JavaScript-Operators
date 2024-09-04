@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">💻 JavaScript Operator 💻</h1>
+<h1 align="center" style="font-weight: bold;">💻 01 JavaScript Operator 💻</h1>
 
 
 <p align="center">Javascript operators are used to perform different types of mathematical and logical computations.  This chapter describes JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical, string, ternary and more.</p>
