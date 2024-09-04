@@ -4,9 +4,9 @@
 <p align="center">Javascript operators are used to perform different types of mathematical and logical computations.  This chapter describes JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical, string, ternary and more.</p>
 <hr>
 
- <p align="center">
-<h3>💻 Chepter-01 </h3>
-</p> 
+ <p align="center" style="font-weight: bold;"> <h2>💻 Chepter-01 </h3> </p> 
+<hr>
+
  <p align="center">
 <h3>📱 Table Of Content</h3>
 </p> 
